@@ -1,0 +1,38 @@
+{
+ "App":"Cette application est destinée à filtrer les employés de HH Angus pour l'autorisation d'entrer dans le bureau dans le cadre du programme de réintégration progressive. Vos réponses aux questions ne sont en aucun cas stockées ou attachées à votre nom, sauf si l’option envoyer les résultats est sélectionnée sur la page finale.",
+ "Backto": "Retour aux questions",
+ "PrivacyP": "Politique de confidentialité",
+ "Createdby": "Créé par Glenne Grossman",
+
+ "Green":"Sur la base de vos réponses aux questions de présélection vous êtes autorisé à entrer au bureau",
+ "Redo":"Refaire les questions de présélection",
+ "Send":"Envoyer les Résultats",
+
+ "Q1": "Avez-vous des symptômes ou signes de COVID-19",
+ "Q1B":" nouveaux ou qui s'aggravent?",
+ "Q1c":"",
+  "Q1I": "Les symptômes ne doivent pas être chroniques ou liés à d'autres causes ou conditions connues.",
+  "Q1ii":"Comprenant:",
+  "Q1A": "Fièvre ou frissons",
+  "Q1B": "Difficulté à respirer ou essoufflement",
+  "Q1C": "Toux",
+  "Q1D": "Mal de gorge, difficulté à avaler",
+  "Q1E": "Nez qui coule / nez bouché ou congestion nasale",
+  "Q1F": "Diminution ou perte d'odeur ou de goût",
+  "Q1G": "Nausées, vomissements, diarrhée, douleurs abdominales",
+  "Q1H": "Ne se sent pas bien, fatigue extrême, douleurs musculaires.",
+  "Q2": "Avez-vous voyagé à l'extérieur du Canada au cours des 14 derniers jours?",
+  "Q3": "Avez-vous eu des contacts étroits avec un cas confirmé ou probable de COVID-19?",
+  "Q4": "Avez-vous été testé positif au COVID-19 et / ou un professionnel de la santé vous a-t-il conseillé de vous auto-isoler?",
+
+
+  "ResultInfo": "Pour les bureaux à l'extérieur du bureau principal de Toronto, votre e-carte d'entrée doit être envoyée à votre représentant. En sélectionnant cette option, vous enverrez des informations personnelles au représentant.\nAccounting 1129 - Gowri Shankar \n Connect 1129 - Megan Angus \n Montréal- Mohamed Kamel \n Vancouver-Ian McRobie",
+  "ecard": "Retour à l'e-carte",
+
+  "yes":"Oui",
+  "no":"Non",
+
+  "Privacy":"Aucune donnée n'est stockée lors de l'utilisation de cette application",
+  "Sendem": "Veuillez choisir votre gestionnaire ci-dessous, si vous ne savez pas qui choisir, veuillez sélectionner le bouton info"
+
+}

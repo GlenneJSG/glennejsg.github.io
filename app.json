@@ -11,10 +11,16 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#2cc5ef"
     },
+    
+    "android": {
+      "package": "com.hhangus.reentry",
+      "versionCode": 1
+    },
+
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -22,7 +28,9 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hhangus.reentry"
+    },
+    "description": ""
   }
 }

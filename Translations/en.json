@@ -1,0 +1,41 @@
+{
+ "App":"This application is meant to screen employees of HH Angus for clearance to enter the office as part of the phased re-entry program. Your responses to the questions are not stored or attached to your name in anyway, unless the Send Results option is selected on the final page.",
+ "Backto": "Back to screening questions",
+ "PrivacyP": "Privacy Policy",
+ "Createdby": "Created by Glenne Grossman",
+
+ "Green":"Based on your responses to the screening questions, you are approved to enter the office on",
+ "Redo":"Redo Screening Questions",
+ "Send":"Send Results",
+
+ "Q1":"Do you have any",
+ "Q1Bold":"new or worsening ",
+ "Q1cont":"symptoms or signs of COVID-19?",
+ "Q1I": "Symptoms should not be chronic or related to other known causes or conditions.",
+ "Q1ii":"Including:",
+ "Q1A":" Fever or chills",
+ "Q1B":" Difficulty breathing or shortness of breath",
+ "Q1C": " Cough",
+ "Q1D":" Sore throat, trouble swallowing",
+ "Q1E":" Runny nose/stuffy nose or nasal congestion",
+ "Q1F":" Decrease or loss of smell or taste",
+ "Q1G":" Nausea, vomiting, diarrhea, abdominal pain",
+ "Q1H":" Not feeling well, extreme tiredness, sore muscles.",
+ "Q2":"Have you travelled outside of Canada in the past 14 days?",
+ "Q3":"Have you had close contact with a confirmed or probable case of COVID-19?",
+ "Q4":"Have you tested positive for COVID-19, and/or been advised by a medical professional to self-isolate?",
+
+ "R1":"Based on your response(s) to the screening questions,",
+ "R2":"do not enter the office",
+ "R3":"and stay home. Please stay in communication with your supervisor, and contact Human Resources.",
+
+ "ResultInfo":"For offices outside of the main Toronto office your entry e-card must be sent to your office representative. By selecting this option, you will be sending personal information to the representative. \nAccounting 1129 - Gowri Shankar \n Connect 1129 - Megan Angus \n Montréal- Mohamed Kamel \n Vancouver-Ian McRobie",
+ "ecard":"Return to e-card",
+
+ "yes":"Yes",
+ "no":"No",
+
+"Privacy":"There is no data stored during the use of this application",
+"Sendem":"Please pick your manager below, if you are unsure of who to choose please select the info button"
+
+}
