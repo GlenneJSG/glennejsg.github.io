@@ -22,8 +22,8 @@
  "Q1G":" Nausea, vomiting, diarrhea, abdominal pain",
  "Q1H":" Not feeling well, extreme tiredness, sore muscles.",
  "Q2":"Have you travelled outside of Canada in the past 14 days?",
- "Q3":"Have you had close contact with a confirmed or probable case of COVID-19?",
- "Q4":"Have you tested positive for COVID-19, and/or been advised by a medical professional to self-isolate?",
+ "Q3":"Have you had close contact with a confirmed or probable case of COVID-19, where you have not been approved for safe return to work by Human Resources in collaboration with Public Health?",
+ "Q4":"Have you tested positive for COVID-19, and/or been advised by a medical professional to self-isolate where you have not been approved for safe return to work by Human Reesourcees in collaboration with Public Health",
 
  "R1":"Based on your response(s) to the screening questions,",
  "R2":"do not enter the office",
